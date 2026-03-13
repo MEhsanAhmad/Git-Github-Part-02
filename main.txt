@@ -1,8 +1,10 @@
 This is my Main Data Base for create other files details:
 
-1)  Math
+1)  Math            = Student 41
+                    = teacher 02
+                    = Room    03
 
-2)  Chemistry
+2)  Chemistry       
 
-3)  Urdu
+3)  Urdu        
 
